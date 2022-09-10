@@ -1,5 +1,5 @@
 # Financial Record
-financial records program using C++ language. This program is the result of the final project of my course programming algorithms in semester 1
+Financial records program using C++ language. This program is the result of the final project of my course programming algorithms in semester 1. The program works for those of you who want to do financial records
 
 ## Features
 - Static input
